@@ -1,15 +1,14 @@
-###
+### Hi, i'm Gustavo do Carmo 
 
 
 
 
 
-#### 🔭 I’m currently working on python and django
-#### 🌱 I’m currently learning javascript
-#### 👯 I’m looking to collaborate on projects open source
+<p> 🔭 I’m currently working on python and django <p>
+<p> 🌱 I’m currently learning javascript <p>
+<p> 👯 I’m looking to collaborate on projects open source <p>
 
-
-<div align="center">
+<div style="display: inline_block"><br>
   <a href="https://github.com/rafaballerini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zeny-brus&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeny-brus&layout=compact&langs_count=7&theme=highcontrast"/>
